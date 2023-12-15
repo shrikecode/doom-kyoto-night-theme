@@ -80,7 +80,7 @@ Can be an integer to determine the exact padding."
        (operators      blue)
        (type           yellow)
        (strings        green)
-       (variables      (doom-lighten magenta 0.4))
+       (variables      violet)
        (numbers        orange)
        (region         dark-blue)
        (error          red)
