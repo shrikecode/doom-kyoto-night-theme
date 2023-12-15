@@ -1,7 +1,5 @@
 #+title: Doom Kyoto Night
 
-* Doom Kyoto Night
-
 A dark, elegant, and easy on the eyes Neovim / Vim theme, based on Tokyo Night
 color palette
 
