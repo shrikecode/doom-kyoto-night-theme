@@ -1,6 +1,12 @@
 #+title: Doom Kyoto Night
 
-A dark, elegant, and easy on the eyes Neovim / Vim theme, based on Tokyo Night
+[[https://imgur.com/pz38NWo.png]]
+
+[[https://imgur.com/HxFsDpk.png]]
+
+[[https://imgur.com/vkygEX8.png]]
+
+A dark, elegant, and easy on the eyes Doom Emacs theme, based on Tokyo Night
 color palette
 
 This theme's code is based on [[https://github.com/MArpogaus/base16-doom][base16-doom]] and color palette comes from
